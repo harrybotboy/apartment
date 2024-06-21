@@ -1,201 +1,201 @@
-﻿Giới tính,Độ tuổi,Nghề nghiệp,Tình trạng hôn nhân,Thu nhập hàng tháng,Đã từng/sở hữu nhà chung cư,Lý do chọn sở hữu chung cư,Loại căn hộ muốn sở hữu,Nguồn thông tin về căn hộ,Thi công an toàn,Bàn giao đúng tiến độ,Thiết kế đẹp,Uy tín doanh nghiệp,Chất lượng dịch vụ bảo trì và sửa chữa,Chất lượng thi công,Thiết kế tổng thể,Chi phí sở hữu
-Nữ,Từ 30 – dưới 40 tuổi,Khác,Đã kết hôn,Trên 30 triệu,Đã từng,Mua cho thuê,Shophouse (>90m2),"Báo chí, truyền thông",9,10,8,6,8,3,5,6
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",2,9,0,2,0,7,6,5
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Shophouse (>90m2),"Báo chí, truyền thông",7,8,5,7,0,9,6,6
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Mua kinh doanh,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",9,8,9,8,3,3,7,4
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",1,10,6,3,6,5,7,9
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",8,8,4,3,2,3,7,3
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",2,4,8,10,8,2,9,3
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,7,6,5,0,7,5,5
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",5,5,1,8,3,7,8,1
-Nam,Trên 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Shophouse (>90m2),"Báo chí, truyền thông",6,4,3,9,7,7,5,6
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Trên 30 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,6,8,6,5,3,3,7,9
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,2,10,8,7,8,4,6
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",1,10,10,4,3,5,5,4
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 20-30 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),Nhân viên Telesale,9,6,9,3,2,6,2,9
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Mua cho thuê,Shophouse (>90m2),Nhân viên Telesale,8,9,0,9,7,10,4,5
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,Mua cho thuê,Căn hộ 3 phòng ngủ (72m2),Kênh truyền thông của công ty,4,6,9,5,3,7,7,5
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Shophouse (>90m2),Nhân viên Telesale,8,4,0,3,1,0,3,3
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,7,7,6,0,1,3,4
-Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Độc thân,Trên 30 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",4,2,0,5,3,3,4,4
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 20-30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,8,4,1,8,9,1,3
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,8,7,10,7,8,4,6
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,9,7,10,1,0,4,10,5
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,8,8,2,10,5,7,2,10
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,10,7,10,8,4,3,6,2
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",1,8,5,8,3,0,7,6
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,Mua cho thuê,Shophouse (>90m2),"Báo chí, truyền thông",9,7,2,8,3,3,5,6
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,8,9,5,2,1,5,9
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",3,7,10,3,5,3,7,1
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,7,4,8,3,1,4,5,3
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,6,0,6,9,10,2,4
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Trên 30 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",9,8,2,1,4,7,2,5
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,9,7,7,9,8,7,4
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",2,10,5,8,3,9,6,5
-Nam,Từ 30 – dưới 40 tuổi,Khác,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,7,6,9,7,0,5,7,3
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Shophouse (>90m2),Nhân viên Telesale,8,9,0,7,9,9,5,5
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",6,8,9,8,8,10,10,8
-Nam,Từ 30 – dưới 40 tuổi,Kinh doanh,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",6,8,7,9,4,5,1,6
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Mua đầu tư,Shophouse (>90m2),Nhân viên Telesale,9,8,2,3,3,1,4,6
-Nam,Trên 40 tuổi,Kinh doanh,Đã kết hôn,Trên 30 triệu,Đã từng,Mua cho thuê,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",8,7,0,3,7,1,7,4
-Nữ,Trên 40 tuổi,Khác,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 1 phòng ngủ (40m2),"Người thân, bạn bè, đồng nghiệp",10,2,10,9,10,8,5,3
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Mua đầu tư,Căn hộ 3 phòng ngủ (72m2),Nhân viên Telesale,10,1,0,6,7,4,1,1
-Nam,Từ 22 – dưới 30 tuổi,Khác,Đã kết hôn,Từ 10-15 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,3,9,9,8,8,5,1
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",7,7,10,10,5,6,6,6
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",3,7,10,6,10,9,6,2
-Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Đã kết hôn,Từ 15-20 triệu,Đã từng,Mua cho thuê,Shophouse (>90m2),Nhân viên Telesale,5,6,1,9,9,6,8,3
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",10,6,2,7,4,8,2,6
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Shophouse (>90m2),"Báo chí, truyền thông",8,7,7,9,4,6,2,6
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,10,8,9,4,4,3,5,3
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,Mua kinh doanh,Shophouse (>90m2),Nhân viên Telesale,5,6,0,7,9,7,5,6
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,5,1,7,3,7,5,5
-Nữ,Trên 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Chưa từng,Mua cho thuê,Shophouse (>90m2),Nhân viên Telesale,8,4,9,8,9,6,6,5
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",9,5,1,2,2,8,3,3
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,7,1,9,3,6,4,3
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,8,7,8,8,7,6,6,3
-Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,7,9,7,2,9,7,8
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,8,6,0,7,5,4,6,3
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),Kênh truyền thông của công ty,8,6,9,8,9,10,10,6
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Shophouse (>90m2),"Báo chí, truyền thông",3,6,1,4,3,5,5,5
-Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,6,4,6,3,2,7,1
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",4,8,3,1,1,0,4,4
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",9,9,6,7,2,4,5,6
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,6,1,10,3,7,3,6
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),Kênh truyền thông của công ty,9,1,8,8,6,0,5,1
-Nam,Trên 40 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,8,8,8,9,2,7,4,10
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 20-30 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",3,6,9,8,6,8,10,5
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,10,4,9,4,4,2,3
-Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Đã từng,Mua kinh doanh,Căn hộ 1 phòng ngủ (40m2),Nhân viên Telesale,7,10,1,9,7,6,7,8
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,9,9,2,3,3,5,4,3
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Shophouse (>90m2),"Người thân, bạn bè, đồng nghiệp",4,7,1,7,6,4,5,3
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Shophouse (>90m2),Nhân viên Telesale,6,4,3,9,6,10,4,3
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,5,8,3,5,9,1,8,4
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Đã từng,Mua cho thuê,Căn hộ 1 phòng ngủ (40m2),Kênh truyền thông của công ty,8,8,2,9,8,6,6,2
-Nam,Từ 22 – dưới 30 tuổi,Khác,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",6,3,4,9,4,10,6,4
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",5,7,0,9,1,1,8,6
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,9,8,5,4,9,9,10,5
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,1,5,7,4,9,2,4
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Shophouse (>90m2),Nhân viên Telesale,10,7,2,9,2,4,6,5
-Nữ,Từ 22 – dưới 30 tuổi,Kinh doanh,Đã kết hôn,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 1 phòng ngủ (40m2),"Người thân, bạn bè, đồng nghiệp",8,9,1,9,1,1,4,5
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",6,8,9,8,10,3,4,6
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",8,6,1,3,10,9,9,6
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 20-30 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,8,3,9,5,5,8,6
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,10,6,6,8,7,4,1,6
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,10,5,10,10,5,7,5
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",9,6,8,6,3,1,4,4
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",10,10,4,8,8,4,7,4
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Trên 30 triệu,Chưa từng,Mua kinh doanh,Căn hộ 1 phòng ngủ (40m2),Nhân viên Telesale,8,5,3,8,3,9,8,5
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,8,7,3,8,10,7,6,10
-Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,2,2,2,8,9,2,5,6
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),"Người thân, bạn bè, đồng nghiệp",10,7,9,10,2,5,7,9
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 15-20 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),Nhân viên Telesale,9,8,6,9,8,3,5,5
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,9,7,4,7,9,6,6,5
-Nam,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",9,8,10,9,7,0,9,5
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,5,6,10,6,9,7,10,3
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,6,5,5,5,7,4,6
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,1,7,10,5,8,4,10
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Shophouse (>90m2),Nhân viên Telesale,8,4,0,3,5,8,5,6
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,9,9,5,10,1,3,7,8
-Nam,Trên 40 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,8,4,3,9,5,4,7,3
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",10,8,8,9,7,7,5,5
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Shophouse (>90m2),Kênh truyền thông của công ty,9,8,3,8,9,4,7,6
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",2,3,4,10,0,6,3,5
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,5,4,0,9,7,5,6,3
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",4,7,7,9,10,6,5,3
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Shophouse (>90m2),"Báo chí, truyền thông",8,9,9,8,3,7,4,6
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,7,5,5,6,6,1,2
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Shophouse (>90m2),"Báo chí, truyền thông",7,4,3,10,4,8,6,4
-Nam,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Shophouse (>90m2),"Báo chí, truyền thông",9,1,4,9,5,4,5,5
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",5,8,2,8,5,8,7,3
-Nam,Từ 30 – dưới 40 tuổi,Kinh doanh,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",9,4,7,7,0,9,9,2
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,8,8,3,10,6,0,1,7
-Nữ,Trên 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Căn hộ 1 phòng ngủ (40m2),Kênh truyền thông của công ty,9,7,1,7,3,6,5,3
-Nam,Trên 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,9,0,7,5,0,8,6
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,9,2,8,9,9,7,4,3
-Nữ,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",5,6,2,10,0,8,6,6
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Đã từng,Mua kinh doanh,Shophouse (>90m2),"Báo chí, truyền thông",8,6,6,8,9,3,7,5
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Shophouse (>90m2),"Báo chí, truyền thông",7,8,5,7,10,3,7,3
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Chưa từng,Mua cho thuê,Căn hộ 3 phòng ngủ (72m2),Nhân viên Telesale,7,6,5,7,4,10,9,4
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",6,1,9,9,7,8,7,5
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),Kênh truyền thông của công ty,9,6,9,8,9,0,6,2
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Đã từng,Mua kinh doanh,Shophouse (>90m2),"Người thân, bạn bè, đồng nghiệp",2,3,1,9,0,0,5,6
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,9,6,1,7,4,3,4,10
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",4,6,3,9,7,3,6,8
-Nữ,Trên 40 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",7,5,5,9,7,7,2,1
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,8,3,9,7,2,5,3
-Nữ,Trên 40 tuổi,Khác,Độc thân,Từ 20-30 triệu,Đã từng,Mua cho thuê,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",9,3,4,9,6,9,7,6
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",3,3,6,2,10,8,7,4
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,1,8,7,6,9,5,2
-Nam,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,5,7,9,8,10,6,3
-Nữ,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,6,8,6,4,2,1,5
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,8,1,7,4,0,5,6
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,8,7,9,7,5,8,7,5
-Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Shophouse (>90m2),Nhân viên Telesale,8,2,6,1,5,10,4,5
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",4,7,9,7,10,7,6,7
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,9,8,1,10,4,3,6,10
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Căn hộ 1 phòng ngủ (40m2),Kênh truyền thông của công ty,9,7,7,5,5,7,6,6
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Shophouse (>90m2),"Báo chí, truyền thông",7,6,10,8,7,1,5,1
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,9,8,3,10,10,9,4,4
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",2,4,7,9,2,8,2,4
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,7,2,10,3,9,2,4
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",5,6,1,7,5,10,7,5
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",9,3,1,3,0,1,10,4
-Nữ,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,9,6,1,10,0,8,7,5
-Nữ,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Shophouse (>90m2),Nhân viên Telesale,3,6,5,7,2,6,7,1
-Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,7,7,9,9,5,5,2
-Nữ,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Căn hộ 1 phòng ngủ (40m2),Nhân viên Telesale,10,7,0,10,4,7,4,2
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,9,2,1,10,0,7,5,8
-Nam,Từ 22 – dưới 30 tuổi,Khác,Đã kết hôn,Trên 30 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",9,6,5,9,7,10,4,6
-Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,3,10,9,8,1,8,10,9
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Đã từng,Mua kinh doanh,Căn hộ 1 phòng ngủ (40m2),Nhân viên Telesale,8,1,10,8,9,10,5,8
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,Mua cho thuê,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",3,1,10,7,3,8,6,6
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Mua kinh doanh,Shophouse (>90m2),Nhân viên Telesale,4,8,1,1,3,7,5,8
-Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Đã kết hôn,Trên 30 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,1,6,6,4,8,6,6
-Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 20-30 triệu,Chưa từng,Mua cho thuê,Shophouse (>90m2),"Báo chí, truyền thông",6,6,4,1,2,9,4,8
-Nam,Từ 22 – dưới 30 tuổi,Khác,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",9,7,0,5,0,8,6,3
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Chưa từng,Mua kinh doanh,Shophouse (>90m2),"Báo chí, truyền thông",9,6,7,5,3,10,2,8
-Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,8,9,8,1,3,5,4
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,Mua kinh doanh,Shophouse (>90m2),Nhân viên Telesale,5,7,1,9,6,0,6,6
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Đã từng,Mua cho thuê,Căn hộ 1 phòng ngủ (40m2),Nhân viên Telesale,9,7,7,6,0,3,6,9
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Đã từng,Mua kinh doanh,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",4,7,8,4,0,4,5,1
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",3,8,8,7,4,5,10,4
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",3,6,5,1,10,5,4,7
-Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",9,10,2,3,4,1,6,8
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,7,2,7,2,10,4,9
-Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 15-20 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,10,3,5,4,5,7,8
-Nam,Trên 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",10,6,10,8,4,5,3,7
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",1,6,1,6,3,6,1,6
-Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,7,0,8,3,8,2,2
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",9,10,3,8,1,4,5,10
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Trên 30 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,8,9,7,6,9,6,4
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,Mua kinh doanh,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",9,2,2,6,3,8,7,7
-Nữ,Trên 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,2,5,6,1,1,9,7,3
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",8,6,2,7,9,6,5,3
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Trên 30 triệu,Chưa từng,Mua đầu tư,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",8,4,0,9,6,10,6,6
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",1,6,10,6,10,3,3,4
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Mua đầu tư,Căn hộ 3 phòng ngủ (72m2),Nhân viên Telesale,10,5,9,9,9,3,5,10
-Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,2,3,6,4,9,7,6,4
-Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",5,8,2,7,9,7,7,3
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,5,6,6,5,10,7,5
-Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",5,10,5,8,9,10,5,6
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,Mua đầu tư,Shophouse (>90m2),"Báo chí, truyền thông",5,7,2,6,0,3,7,5
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,4,1,10,10,10,2,6
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Đã từng,Mua kinh doanh,Căn hộ 1 phòng ngủ (40m2),"Người thân, bạn bè, đồng nghiệp",9,1,10,2,7,1,4,4
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 20-30 triệu,Chưa từng,Mua đầu tư,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,10,8,3,7,7,6,7,6
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,Mua cho thuê,Shophouse (>90m2),"Báo chí, truyền thông",9,1,9,2,10,2,9,2
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 15-20 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,10,10,2,6,5,9,7,1
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Shophouse (>90m2),Nhân viên Telesale,8,6,2,9,0,4,1,5
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,3,6,7,8,7,2,5,3
-Nữ,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Chưa từng,Mua cho thuê,Shophouse (>90m2),"Báo chí, truyền thông",8,8,6,8,5,9,7,5
-Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",9,4,10,2,8,6,5,3
-Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,Mua cho thuê,Căn hộ 1 phòng ngủ (40m2),Kênh truyền thông của công ty,4,1,5,10,8,10,4,8
-Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,8,4,7,10,2,3,1,8
-Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,8,4,4,9,1,4,2,5
-Nữ,Trên 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,8,7,6,7,8,2,1,6
-Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Độc thân,Từ 10-15 triệu,Đã từng,Mong muốn sở hữu căn hộ riêng,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",4,7,0,8,7,6,5,5
-Nam,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,9,8,10,2,1,5,9,5
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,Mua cho thuê,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,9,4,0,6,8,3,6,6
-Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Mong muốn sở hữu căn hộ riêng,Shophouse (>90m2),Nhân viên Telesale,10,9,9,6,10,6,4,5
-Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Đã từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,2,8,6,2,6,2,6,1
-Nữ,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 20-30 triệu,Đã từng,Mua cho thuê,Căn hộ 1 phòng ngủ (40m2),Kênh truyền thông của công ty,8,5,7,7,3,6,7,3
-Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Trên 30 triệu,Chưa từng,Mua kinh doanh,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",8,8,8,3,1,3,7,3
+﻿Giới tính,Độ tuổi,Nghề nghiệp,Tình trạng hôn nhân,Thu nhập hàng tháng,Đã từng/sở hữu nhà chung cư,Lý do chọn sở hữu chung cư,Loại căn hộ muốn sở hữu,Nguồn thông tin về căn hộ,Mức độ hài lòng,Nhận xét
+Nữ,Từ 30 – dưới 40 tuổi,Khác,Đã kết hôn,Trên 30 triệu,Chưa từng,Thi công an toàn,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Thiết kế đẹp,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Không hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Người thân, bạn bè, đồng nghiệp",Rất hài lòng,Khách hàng có ý định sở hữu
+Nam,Trên 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Thi công an toàn,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 20-30 triệu,Chưa từng,Thi công an toàn,,Nhân viên Telesale,Rất hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Đã từng,,Shophouse (>90m2),Nhân viên Telesale,Không hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,Kênh truyền thông của công ty,Trung lập,Khách hàng có ý định sở hữu
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",Hài lòng,Khách hàng có ý định sở hữu
+Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Độc thân,Trên 30 triệu,Chưa từng,Thiết kế đẹp,,"Người thân, bạn bè, đồng nghiệp",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 20-30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Trung lập,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Trung lập,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Người thân, bạn bè, đồng nghiệp",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Đã kết hôn,Từ 10-15 triệu,Đã từng,,Shophouse (>90m2),Nhân viên Telesale,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),Nhân viên Telesale,Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Trên 30 triệu,Đã từng,,Shophouse (>90m2),"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Kinh doanh,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Không hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Trung lập,Khách hàng có nhận xét tốt
+Nam,Trên 40 tuổi,Kinh doanh,Đã kết hôn,Trên 30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Hài lòng,Khách hàng có ý định sở hữu
+Nữ,Trên 40 tuổi,Khác,Đã kết hôn,Từ 10-15 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Người thân, bạn bè, đồng nghiệp",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),Nhân viên Telesale,Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Khác,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Hài lòng,Khách hàng có ý định sở hữu
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,Không hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,,Shophouse (>90m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng có nhận xét tốt
+Nữ,Trên 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Trên 30 triệu,Đã từng,,Shophouse (>90m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,,Shophouse (>90m2),Nhân viên Telesale,Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Thi công an toàn,,"Báo chí, truyền thông",Không hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Thi công an toàn,,Kênh truyền thông của công ty,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Đã kết hôn,Từ 15-20 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",Trung lập,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,Trung lập,Khách hàng có nhận xét tốt
+Nam,Trên 40 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,Kênh truyền thông của công ty,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 20-30 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Trung lập,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Thi công an toàn,,Nhân viên Telesale,Trung lập,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Người thân, bạn bè, đồng nghiệp",Không hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,,Shophouse (>90m2),Nhân viên Telesale,Trung lập,Khách hàng có ý định sở hữu
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),Kênh truyền thông của công ty,Rất hài lòng,Khách hàng có ý định sở hữu
+Nam,Từ 22 – dưới 30 tuổi,Khác,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Người thân, bạn bè, đồng nghiệp",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,Kênh truyền thông của công ty,Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Kinh doanh,Đã kết hôn,Trên 30 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Người thân, bạn bè, đồng nghiệp",Rất hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Không hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Người thân, bạn bè, đồng nghiệp",Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 20-30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Người thân, bạn bè, đồng nghiệp",Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Thiết kế đẹp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Trên 30 triệu,Đã từng,,Shophouse (>90m2),Nhân viên Telesale,Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Hài lòng,Khách hàng có ý định sở hữu
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,Kênh truyền thông của công ty,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng có ý định sở hữu
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,Kênh truyền thông của công ty,Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Trung lập,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,,Shophouse (>90m2),Nhân viên Telesale,Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),Kênh truyền thông của công ty,Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Trên 40 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Thi công an toàn,,Kênh truyền thông của công ty,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Người thân, bạn bè, đồng nghiệp",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,Kênh truyền thông của công ty,Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Không hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng có ý định sở hữu
+Nam,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Kinh doanh,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng có ý định sở hữu
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,Kênh truyền thông của công ty,Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Trên 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,Kênh truyền thông của công ty,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Trên 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),Kênh truyền thông của công ty,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Người thân, bạn bè, đồng nghiệp",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Không hài lòng,Khách hàng có ý định sở hữu
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Chưa từng,Thiết kế đẹp,,Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Đã từng,,Shophouse (>90m2),"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Thiết kế đẹp,,Kênh truyền thông của công ty,Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Người thân, bạn bè, đồng nghiệp",Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Thiết kế đẹp,,Kênh truyền thông của công ty,Không hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Trên 40 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Thi công an toàn,,"Báo chí, truyền thông",Trung lập,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Trên 40 tuổi,Khác,Độc thân,Từ 20-30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Không hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Không hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,Kênh truyền thông của công ty,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Thiết kế đẹp,,Kênh truyền thông của công ty,Rất hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Đã từng,,Shophouse (>90m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng có ý định sở hữu
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Thi công an toàn,,Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Trung lập,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Rất hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Thi công an toàn,,Nhân viên Telesale,Rất hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,Kênh truyền thông của công ty,Rất hài lòng,Khách hàng có ý định sở hữu
+Nam,Từ 22 – dưới 30 tuổi,Khác,Đã kết hôn,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Người thân, bạn bè, đồng nghiệp",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Thi công an toàn,,Nhân viên Telesale,Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Đã kết hôn,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 20-30 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Khác,Đã kết hôn,Từ 15-20 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Chưa từng,Thiết kế đẹp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Trung lập,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),Nhân viên Telesale,Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Từ 20-30 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng có ý định sở hữu
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 15-20 triệu,Đã từng,,Shophouse (>90m2),"Báo chí, truyền thông",Hài lòng,Khách hàng có ý định sở hữu
+Nam,Trên 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Thiết kế đẹp,,"Người thân, bạn bè, đồng nghiệp",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,"Báo chí, truyền thông",Không hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Trên 40 tuổi,Nội trợ,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,Kênh truyền thông của công ty,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Người thân, bạn bè, đồng nghiệp",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Trên 30 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 1 phòng ngủ (40m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),"Báo chí, truyền thông",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),"Người thân, bạn bè, đồng nghiệp",Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 20-30 triệu,Đã từng,,Shophouse (>90m2),Nhân viên Telesale,Không hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Đã kết hôn,Từ 15-20 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 15-20 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Nhân viên Telesale,Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 15-20 triệu,Đã từng,,Căn hộ 3 phòng ngủ (72m2),Kênh truyền thông của công ty,Hài lòng,Khách hàng có ý định sở hữu
+Nữ,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 15-20 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 30 – dưới 40 tuổi,Khác,Độc thân,Từ 10-15 triệu,Chưa từng,Uy tín doanh nghiệp,,"Báo chí, truyền thông",Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,Kênh truyền thông của công ty,Không hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 10-15 triệu,Đã từng,,Căn hộ 2 phòng ngủ (60m2),Kênh truyền thông của công ty,Hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Nội trợ,Độc thân,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Trung lập,Khách hàng có nhận xét tốt
+Nữ,Trên 40 tuổi,Nội trợ,Đã kết hôn,Trên 30 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 30 – dưới 40 tuổi,Kinh doanh,Độc thân,Từ 10-15 triệu,Chưa từng,Thi công an toàn,,"Báo chí, truyền thông",Hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Trên 40 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Trung lập,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Trên 30 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Rất hài lòng,Khách hàng có nhận xét tốt
+Nữ,Từ 30 – dưới 40 tuổi,Nhân viên văn phòng,Đã kết hôn,Từ 10-15 triệu,Chưa từng,Bàn giao đúng tiến độ,,Nhân viên Telesale,Rất hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nam,Từ 22 – dưới 30 tuổi,Nhân viên văn phòng,Độc thân,Từ 20-30 triệu,Chưa từng,Uy tín doanh nghiệp,,Nhân viên Telesale,Không hài lòng,Khách hàng sẽ giới thiệu căn hộ
+Nữ,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Từ 20-30 triệu,Chưa từng,Bàn giao đúng tiến độ,,Kênh truyền thông của công ty,Không hài lòng,Khách hàng có nhận xét tốt
+Nam,Từ 22 – dưới 30 tuổi,Kinh doanh,Độc thân,Trên 30 triệu,Đã từng,,Shophouse (>90m2),"Báo chí, truyền thông",Trung lập,Khách hàng sẽ giới thiệu căn hộ
